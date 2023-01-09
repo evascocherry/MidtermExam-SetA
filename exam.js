@@ -23,4 +23,5 @@ if(data[2] == 'read'){
 if(data[2] == 'employee'){
     employee(read());
 
+    
 }
