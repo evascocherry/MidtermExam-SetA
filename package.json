@@ -1,0 +1,20 @@
+{
+  "name": "midtermexam-seta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exam.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node exam"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evascocherry/MidtermExam-SetA.git"
+  },
+  "author": "Cherry Anne Evasco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evascocherry/MidtermExam-SetA/issues"
+  },
+  "homepage": "https://github.com/evascocherry/MidtermExam-SetA#readme"
+}
