@@ -5,4 +5,5 @@ const write = function(data= "default"){
 
 }
 
+
 module.exports = write;
